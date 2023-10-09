@@ -14,6 +14,7 @@ e. Sênior = 18 - 25 anos.
 
 Apresentar mensagem “idade fora da faixa etária” quando for outro ano não contemplado;
 
+# Código
 package Exercicio34;
 
 import java.util.*;
