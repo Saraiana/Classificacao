@@ -1,5 +1,5 @@
-# Exercicio-34
-Classificação por faixa etária
+# Classificação-por-faixa-etária
+
 Elaborar um algorítmo que, dada a idade de um nadador. Classifique-o em uma das seguintes categorias:
 
 a. Infantil A = 5 - 7 anos;
